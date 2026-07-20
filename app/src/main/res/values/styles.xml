@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.GridRush" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#17152B</item>
+        <item name="android:navigationBarColor">#17152B</item>
+        <item name="android:windowBackground">#17152B</item>
+    </style>
+</resources>
